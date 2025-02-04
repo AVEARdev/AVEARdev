@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Artyom!  
+# 👋 Hi, I'm Artem!  
 
 💻 Junior Go Developer | Learning Java and PHP  
 📍 Kharkiv, Ukraine  
